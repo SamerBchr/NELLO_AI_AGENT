@@ -1,0 +1,31 @@
+
+[
+  {
+    "id": 1,
+    "title": "Submit quarterly financial report",
+    "deadline": "2026-10-10",
+    "status": "pending",
+    "priority": "high"
+  },
+  {
+    "id": 2,
+    "title": "Approve recruitment budget",
+    "deadline": "2026-10-15",
+    "status": "pending",
+    "priority": "high"
+  },
+  {
+    "id": 3,
+    "title": "Review IT security policy",
+    "deadline": "2026-10-08",
+    "status": "completed",
+    "priority": "medium"
+  },
+  {
+    "id": 4,
+    "title": "Follow up with operations director",
+    "deadline": "2026-10-12",
+    "status": "pending",
+    "priority": "medium"
+  }
+]
